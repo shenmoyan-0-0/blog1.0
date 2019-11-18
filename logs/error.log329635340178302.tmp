@@ -1,0 +1,2 @@
+2019-11-18.08:26:38 ERROR [main] com.scs.web.blog.dao.impl.UserDaoTest.batchInsert:27  用户数据添加失败
+2019-11-18.08:30:50 ERROR [main] com.scs.web.blog.dao.impl.UserDaoTest.batchInsert:27  用户数据添加失败
